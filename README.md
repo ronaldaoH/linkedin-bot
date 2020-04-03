@@ -11,7 +11,7 @@ Instalación para Windows:
 2. Correr el archivo install.sh.
 
 3. Saldrá una pantalla, dejas que cargue y escribiremos :
-  pipenv install –r requirements.txt 
+  pipenv install -r requirements.txt 
 
 4. Luego, ejecutar el siquiente comando:  
   Python linkedin-bot.py
